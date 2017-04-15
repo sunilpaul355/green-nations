@@ -1,0 +1,11 @@
+<!--<nav>
+<ul>
+<li *ngfor="let item of menuService.items ">
+<!--<fw-menu-item [item]="item">
+</fw-menu-item>
+  </li>
+  </ul>
+</nav>-->
+<div *ngFor="let item of menuService.items">
+<fw-menu-item [item]="item"></fw-menu-item>
+<div>

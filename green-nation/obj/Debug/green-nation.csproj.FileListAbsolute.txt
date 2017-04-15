@@ -1,0 +1,5 @@
+E:\Projects\AngularCLI\green-nation\green-nation\bin\Debug\green-nation.dll
+E:\Projects\AngularCLI\green-nation\green-nation\bin\Debug\green-nation.pdb
+E:\Projects\AngularCLI\green-nation\green-nation\obj\Debug\green-nation.csprojResolveAssemblyReference.cache
+E:\Projects\AngularCLI\green-nation\green-nation\obj\Debug\green-nation.dll
+E:\Projects\AngularCLI\green-nation\green-nation\obj\Debug\green-nation.pdb
